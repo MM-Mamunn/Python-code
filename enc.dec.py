@@ -1,3 +1,14 @@
+'''
+lets have a word of string
+# Coding:
+# if the word contains atleast 3 characters, remove the first letter and append it at the end
+# now append three random characters at the starting and the end
+# else:
+# simply reverse the string
+
+# Decoding:
+according to the encoding
+'''
 import random
 #print (random.randint(0,9))
 
